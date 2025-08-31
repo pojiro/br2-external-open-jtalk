@@ -1,0 +1,7 @@
+config BR2_PACKAGE_HTS_ENGINE_API
+	bool "hts_engine_API"
+	help
+	  The hts_engine is software to synthesize speech waveform
+	  from HMMs trained by the HMM-based speech synthesis system (HTS).
+
+	  https://hts-engine.sourceforge.net/

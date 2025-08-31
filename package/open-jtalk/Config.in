@@ -1,0 +1,8 @@
+config BR2_PACKAGE_OPEN_JTALK
+	bool "open-jtalk"
+	select config BR2_PACKAGE_HTS_ENGINE_API
+	help
+	  Open JTalk is a Japanese text-to-speech synthesis system.
+	  This software is released under the Modified BSD license.
+
+	  https://open-jtalk.sourceforge.net/
