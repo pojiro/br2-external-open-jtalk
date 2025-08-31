@@ -1,1 +1,2 @@
-source "$BR2_EXTERNAL_OPEN_JTALK_PATH/package/open-jtalk/Config.in"
+source "$BR2_EXTERNAL_OPEN_JTALK_PATH/package/open_jtalk/Config.in"
+source "$BR2_EXTERNAL_OPEN_JTALK_PATH/package/hts_engine_API/Config.in"
